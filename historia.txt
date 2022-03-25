@@ -6,7 +6,7 @@ veloces del siglo XX.
 
 La historia de la computadora tiene largos antecedentes, que se remontan a las primeras reglas
  de cálculo y a las primeras máquinas diseñadas para facilitarle al ser humano la tarea de la 
-aritmética. El ábaco, por ejemplo, fue un importante adelanto en la materia, creado alrededor de 4.000 a. C.
+aritmética. El ábaco, por ejemplo, fue un importante adelanto en la materia, creado alrededor de 5.000 a. C.
 
 También hubo inventos muy posteriores, como la máquina de Blaise Pascal, conocida como Máquina
  de Pascal o Pascalina, creada en 1642. Consistía en una serie de engranajes que permitían realizar
