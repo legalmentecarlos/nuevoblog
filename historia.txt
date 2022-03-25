@@ -1,1 +1,52 @@
-esta es una historia
+La historia de la computadora es el recuento de los eventos, innovaciones y
+ desarrollos tecnológicos del campo de la informática y la automatización, que
+ dieron origen a las máquinas que conocemos como computadoras, computadores u ordenadores.
+ Registra además su mejoramiento y actualización hasta alcanzar las versiones miniaturizadas y 
+veloces del siglo XXI.
+
+La historia de la computadora tiene largos antecedentes, que se remontan a las primeras reglas
+ de cálculo y a las primeras máquinas diseñadas para facilitarle al ser humano la tarea de la 
+aritmética. El ábaco, por ejemplo, fue un importante adelanto en la materia, creado alrededor de 4.000 a. C.
+
+También hubo inventos muy posteriores, como la máquina de Blaise Pascal, conocida como Máquina
+ de Pascal o Pascalina, creada en 1642. Consistía en una serie de engranajes que permitían realizar
+ operaciones aritméticas. Esta máquina fue mejorada por Gottfried Leibinitz en 1671 y se dio inicio a 
+la historia de las calculadoras.
+
+Los intentos del ser humano por automatizar continuaron desde entonces: Joseph Marie Jacquard inventó en
+ 1802 un sistema de tarjetas perforadas para intentar automatizar sus telares, y en 1822 el inglés Charles
+ Babbage empleó dichas tarjetas para crear una máquina de cálculo diferencial.
+
+Solamente doce años después (1834), logró innovar su máquina y obtener una máquina analítica capaz de las 
+cuatro operaciones aritméticas y de almacenar números en una memoria (hasta 1.000 números de 50 dígitos). 
+Por este motivo, a Babbage se le considera el padre de la computación, ya que esta máquina representa un 
+salto hacia el mundo de la informática como lo conocemos.
+
+Invención de la computadora
+La invención de la computadora no puede atribuirse a una sola persona. Se considera a Babbage como el 
+padre de la rama de saberes que luego será la computación, pero no será sino hasta mucho más adelante
+ que se hará la primera computadora como tal.
+
+Otro importante fundador en este proceso fue Alan Turing, creador de una máquina capaz de calcular
+ cualquier cosa, y que llamó “máquina universal” o “máquina de Turing”. Las ideas que sirvieron para 
+construirla fueron las mismas que luego dieron nacimiento al primer computador.
+
+Otro importante caso fue el de ENIAC (Electronic Numeral Integrator and Calculator, o sea, Integrador y
+ Calculador Electrónico Numeral), creado por dos profesores de la universidad de Pensilvania en 1943, 
+considerado el abuelo de los computadores propiamente dicho. Consistía en 18.000 tubos al vacío que llenaban 
+un cuarto entero.
+
+
+La historia de los computadores no habría tenido el curso que tuvo sin la invención en 1947 de
+ los transistores, fruto de los esfuerzos de los laboratorios Bell en Estados Unidos. Estos aparatos 
+son interruptores eléctricos fabricados con materiales sólidos y sin necesidad del vacío.
+
+Este descubrimiento fue fundamental para la fabricación de los primeros microchips, y permitieron el 
+paso de los aparatos eléctricos a los electrónicos. Los primeros circuitos integrados (o sea, chips)
+ aparecieron en 1958, fruto de los esfuerzos de Jack Kilby y Robert Noyce. El primero recibió el Premio 
+Nobel de Física en 2000 por el hallazgo.
+
+
+
+
+
