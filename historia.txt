@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 historia delas conputadoras 
+=======
+      titulo de la creacion de las pc
+
+>>>>>>> cabesera
 
 
 
