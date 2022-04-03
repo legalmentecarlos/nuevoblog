@@ -1,45 +1,17 @@
-               tituloooooooooooooooooooooooooo
-
-La historia de la computadora tiene largos antecedentes, que se remontan a las primeras reglas
- de c�lculo y a las primeras m�quinas dise�adas para facilitarle al ser humano la tarea de la 
-aritm�tica. El �baco, por ejemplo, fue un importante adelanto en la materia, creado alrededor de 4.000 a. C.
-
-Tambi�n hubo inventos muy posteriores, como la m�quina de Blaise Pascal, conocida como M�quina
- de Pascal o Pascalina, creada en 1642. Consist�a en una serie de engranajes que permit�an realizar
- operaciones aritm�ticas. Esta m�quina fue mejorada por Gottfried Leibinitz en 1671 y se dio inicio a 
-la historia de las calculadoras.
-
-Los intentos del ser humano por automatizar continuaron desde entonces: Joseph Marie Jacquard invent� en
- 1802 un sistema de tarjetas perforadas para intentar automatizar sus telares, y en 1822 el ingl�s Charles
- Babbage emple� dichas tarjetas para crear una m�quina de c�lculo diferencial.
-
-Solamente doce a�os despu�s (1834), logr� innovar su m�quina y obtener una m�quina anal�tica capaz de las 
-cuatro operaciones aritm�ticas y de almacenar n�meros en una memoria (hasta 1.000 n�meros de 50 d�gitos). 
-Por este motivo, a Babbage se le considera el padre de la computaci�n, ya que esta m�quina representa un 
-salto hacia el mundo de la inform�tica como lo conocemos.
-
-Invenci�n de la computadora
-La invenci�n de la computadora no puede atribuirse a una sola persona. Se considera a Babbage como el 
-padre de la rama de saberes que luego ser� la computaci�n, pero no ser� sino hasta mucho m�s adelante
- que se har� la primera computadora como tal.
-
-Otro importante fundador en este proceso fue Alan Turing, creador de una m�quina capaz de calcular
- cualquier cosa, y que llam� �m�quina universal� o �m�quina de Turing�. Las ideas que sirvieron para 
-construirla fueron las mismas que luego dieron nacimiento al primer computador.
-
-Otro importante caso fue el de ENIAC (Electronic Numeral Integrator and Calculator, o sea, Integrador y
- Calculador Electr�nico Numeral), creado por dos profesores de la universidad de Pensilvania en 1943, 
-considerado el abuelo de los computadores propiamente dicho. Consist�a en 18.000 tubos al vac�o que llenaban 
-un cuarto entero.
-
-
-La historia de los computadores no habr�a tenido el curso que tuvo sin la invenci�n en 1947 de
- los transistores, fruto de los esfuerzos de los laboratorios Bell en Estados Unidos. Estos aparatos 
-son interruptores el�ctricos fabricados con materiales s�lidos y sin necesidad del vac�o.
-
-  nuevos hallasgos de hit gitbud
-  
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+esta historia continuaraaaaaa
 
